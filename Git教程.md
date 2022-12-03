@@ -71,7 +71,14 @@
 
   - git reset --hard 版本号
   - 版本号可以通过第七个命令来查看
+
 - 合并分支:
 
   - git merge 合并的分支名称  把指定的分支合并到当前分支上(需要切换到当前分支)
+  
+- 分支:
+
+  - git branch -v 查看分支信息
+  - git branch hot-fix 创建分支
+  
 - 
